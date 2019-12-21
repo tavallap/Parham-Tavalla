@@ -94,6 +94,10 @@ img {
     background: #0d0d0d;
     color: white;
 }
+.LI-profile-badge{
+    position: absolute;
+    right: 0px;
+}
 #cop {
     font-size: small;
 }
