@@ -61,7 +61,10 @@ video {
 }
 .myimg {
     /*background-color: #aaa;*/
-    width: 33%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
     align-content: center;
 }
 .main {
