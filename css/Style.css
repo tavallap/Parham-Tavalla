@@ -92,7 +92,7 @@ img {
 
 .footer {
     padding: 20px;
-    height:100px;
+    overflow:auto;
     background: #0d0d0d;
     color: white;
 }
