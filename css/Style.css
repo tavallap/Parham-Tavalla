@@ -92,6 +92,7 @@ img {
 
 .footer {
     padding: 20px;
+    height:auto;
     background: #0d0d0d;
     color: white;
 }
