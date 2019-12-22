@@ -66,12 +66,14 @@ video {
     
 }
 .myimg {
-    /*background-color: #aaa;*/
+    /*background-color: #aaa;
     display:block;
     margin-left:auto;
     margin-right:auto;
     width: 50%;
-    align-content: center;
+    align-content: center;*/
+    position: absolute;
+    right: 0px;
 }
 .main {
     flex: 70%;
