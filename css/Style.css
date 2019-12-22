@@ -59,7 +59,7 @@ video {
     flex-wrap: wrap;
 }
 .side {
-    flex: 50%;
+    flex: 40%;
     background-color: #f1f1f1;
     padding: 20px;
     margin: 1px 5px 1px 5px;
@@ -74,7 +74,7 @@ video {
     align-content: center;
 }
 .main {
-    flex: 50%;
+    flex: 60%;
     background-color: #fafafa;
     padding: 20px;
 }
