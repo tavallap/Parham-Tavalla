@@ -16,7 +16,9 @@ body {
     opacity:0.5;
     color: white;
 }
-
+h1{
+    color: dark blue;
+}
 .navbar {
     display: flex;
     background-color: #00264d;
