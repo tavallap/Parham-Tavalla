@@ -17,7 +17,7 @@ body {
     color: white;
 }
 h1{
-    color: black;
+    color: #ff9900;
 }
 .navbar {
     display: flex;
@@ -62,7 +62,7 @@ video {
     flex: 30%;
     background-color: #f1f1f1;
     padding: 10px;
-    margin: 1px 5px 1px 5px;
+    
     
 }
 .myimg {
