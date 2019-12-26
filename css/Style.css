@@ -20,7 +20,7 @@ h1{
     color: white;
 }
 .navbar {
-    display: flex;
+    display: none;
     background-color: #00264d;
     padding: 20px;
     position:fixed;
