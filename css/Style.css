@@ -23,6 +23,9 @@ h1{
     display: flex;
     background-color: #00264d;
     padding: 20px;
+    position:fixed;
+    left:10px;
+    
     
 }
 .navbar a {
