@@ -13,7 +13,6 @@ body {
     text-align: center;
     background-image: url("https://cdn.dribbble.com/users/211312/screenshots/5571571/artboard_1-100.jpg");
     background-repeat: repeat-x;
-    opacity:0.5;
     color: white;
 }
 hr {
@@ -31,6 +30,7 @@ h1{
     color: indigo;
     background-color:khaki;
     width: 25%;
+    border-radius:100%;
 }
 .navbar {
     display: block;
