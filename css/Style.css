@@ -16,6 +16,16 @@ body {
     opacity:0.5;
     color: white;
 }
+hr {
+
+    border-style: dotted none none;
+    width: 30%;
+    border-color: 
+
+    lightgray;
+    border-width: 5px;
+
+}
 h1{
     color: indigo;
     background-color:khaki;
