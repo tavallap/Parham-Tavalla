@@ -124,4 +124,5 @@ img {
 .about {
     text-align: justify;
     margin: 1px 30px 1px 30px;
+    text-indent:2ch;
 }
